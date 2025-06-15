@@ -13,7 +13,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vivek-inavalli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vivek-inavalli/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/inavalli vivek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="inavalli vivek" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vivekinavalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vivekinavalli" height="30" width="40" /></a>
-<a href="https://discord.gg/tappas_balu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tappas_balu" height="30" width="40" /></a>
+<a href="[https://discord.gg/tappas_balu](https://discord.gg/gAebWAJn)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tappas_balu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

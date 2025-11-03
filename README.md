@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vivek Inavalli</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
-- 🌱 I’m currently learning **Typescript, Next.js, Advanced Backend and Devops**
+- 🌱 I’m currently learning **Rust/Solana Typescript, Next.js, Advanced Backend and Devops**
 
 - 💬 Ask me about **MERN stack**
 
